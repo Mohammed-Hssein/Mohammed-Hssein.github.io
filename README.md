@@ -2,6 +2,8 @@ I am a master student of applied mathematics at [University of Lille](https://fr
 
 
 ## Research activities
+* **Early stopping points for stochastic gradient descent** with Mr Alain Célisse at Inria (National Institute for Research in Computer Science and Automation). Understand and develop new early stopping point strategies for stochastic gradient descent.
+
 * **Deep learning on Grassmannian data** with Rémy Boyer, and Jérémie Boulanger. Improuving a neural network architecture for grassmannina learning, on grassmanian input data. Project conducted during an internship at CNRS. check the report [here](mohammed-hssein.github.io/internship.pdf). Comming generalization to order 3 tensors, bye phd student Ouafae Karmouda.
 
 ## Deep learning implementations
