@@ -4,7 +4,7 @@ I am a master student of applied mathematics at [University of Lille](https://fr
 ## Research activities
 * **Early stopping points for stochastic gradient descent** with Mr Alain Célisse at Inria (National Institute for Research in Computer Science and Automation). Understand and develop new early stopping point strategies for stochastic gradient descent.
 
-* **Deep learning on Grassmannian manifold** with Rémy Boyer, and Jérémie Boulanger. Improuving a neural network architecture for grassmannina learning, on grassmanian input data. Project conducted during an internship at CNRS. check the report [here](#blank_:mohammed-hssein.github.io/internship.pdf). Comming generalization to order 3 tensors, bye phd student Ouafae Karmouda.
+* **Deep learning on Grassmannian manifold** with Rémy Boyer, and Jérémie Boulanger. Improuving a neural network architecture for grassmannina learning, on grassmanian input data. Project conducted during an internship at CNRS. check the report [here](#blank mohammed-hssein.github.io/internship.pdf). Comming generalization to order 3 tensors, bye phd student Ouafae Karmouda.
 
 ## Deep learning implementations
 * **First step towards deep networks** is an implementation of the ANN architecture from A to Z based on famous [book](http://neuralnetworksanddeeplearning.com) of M.Nielsen. The ANN architecture is implementd with basic numpy functions and python build-in functions. check it [here](https://github.com/Mohammed-Hssein/Deep-Learning-Architecture).
