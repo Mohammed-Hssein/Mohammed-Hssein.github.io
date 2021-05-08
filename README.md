@@ -2,9 +2,9 @@ I am a master student of applied mathematics at [University of Lille](https://fr
 
 
 ## Research activities
-* **Early stopping points for stochastic gradient descent** with Mr Alain Célisse at Inria (National Institute for Research in Computer Science and Automation). Understand and develop new early stopping point strategies for stochastic gradient descent. Intermidiate [presentation](mohammed-hssein.github.io/presentation.pdf). Updates comming soon.
+* **Early stopping points for stochastic gradient descent** with Mr Alain Célisse at Inria (National Institute for Research in Computer Science and Automation). Understand and develop new early stopping point strategies for stochastic gradient descent. Intermidiate [presentation](https://drive.google.com/file/d/1rpbAnQnRIt2vsz657gnOFtwCPV2wIMw6/view?usp=sharing). Updates comming soon.
 
-* **Deep learning on Grassmannian manifold** with Rémy Boyer, and Jérémie Boulanger. Improuving a neural network architecture for grassmannina learning, on grassmanian input data. Project conducted during an internship at CNRS. check the report [here](mohammed-hssein.github.io/internship.pdf#blank_). Comming generalization to order 3 tensors, bye phd student Ouafae Karmouda.
+* **Deep learning on Grassmannian manifold** with Rémy Boyer, and Jérémie Boulanger. Improuving a neural network architecture for grassmannina learning, on grassmanian input data. Project conducted during an internship at CNRS. check the report [here](https://drive.google.com/file/d/1a_7XhsGrm3UTWS_oko6wWG7E0wHQAUsa/view?usp=sharing). Comming generalization to order 3 tensors, bye phd student Ouafae Karmouda.
 
 ## Deep learning implementations
-* **First step towards deep networks** is an implementation of the ANN architecture from A to Z based on famous [book](http://neuralnetworksanddeeplearning.com) of M.Nielsen. The ANN architecture is implementd with basic numpy functions and python build-in functions. check it [here](https://github.com/Mohammed-Hssein/Deep-Learning-Architecture).
+* **First step towards deep networks** is an implementation of the ANN architecture from A to Z based on famous [book](http://neuralnetworksanddeeplearning.com) of M.Nielsen. The ANN architecture is implementd with basic numpy functions and python build-in functions. check it [here](https://drive.google.com/file/d/1nel0tdlaDa0y7St_umN9BCRRo8XGuhak/view?usp=sharing).
